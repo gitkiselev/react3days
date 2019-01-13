@@ -37,6 +37,7 @@ const Calls = styled.div`
 	}
 `
 const CallButton = styled.button`
+	border: none;
 	width: 173px;
 	height: 45px;
 	background-color: #3fc7db;
